@@ -9,7 +9,7 @@ Draw layouts, shapes, and components on a canvas and get clean HTML / CSS / JS y
 ## Try DoodleDev
 
 **Live app:** https://doodledev.app  
-No signup needed. Works directly in the browser.
+Beta Now Live. Works directly in the browser.
 
 > Early stage. Things will definitely break. Please open issues if you find anything weird.
 
