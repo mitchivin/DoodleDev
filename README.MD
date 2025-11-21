@@ -82,6 +82,5 @@ If something feels wrong, open an issue and include:
 
 ---
 
-## Contact
 Portfolio: https://mitchivin.com
 
