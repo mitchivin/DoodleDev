@@ -1,5 +1,8 @@
 # DoodleDev
 
+<video src="doodledev.mp4" muted autoplay loop playsinline style="max-width: 100%;">
+</video>
+
 **The web shouldn't make your designs look worse.**
 
 DoodleDev is a visual development tool built to bridge the gap between high-fidelity design and production code. It allows you to build complex front-end interfaces and export them as clean, single web components with every detail intact.
