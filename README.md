@@ -9,7 +9,7 @@ DoodleDev is a visual compiler built to bridge the gap between high fidelity des
 <img width="1704" height="908" alt="Screenshot 2026-02-13 093524" src="https://github.com/user-attachments/assets/1f816a06-742a-43e2-b056-bcaabbd491ec" />
 
 ## The Philosophy
-Most web tools force you to compromise your vision to fit into a framework. DoodleDev was built on a simple premise: **Figma outputs pictures. DoodleDev outputs software.**
+Most web tools force you to compromise your vision to fit into a framework. DoodleDev was built on a simple premise: **Figma outputs pictures. DoodleDev outputs code.**
 
 We reject the idea of "vibecoding" or AI guessing. This is a precision instrument that establishes a direct link between visual intent and binary execution. If you can design it, the engine can run it.
 
