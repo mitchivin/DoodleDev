@@ -13,6 +13,8 @@ Most web tools force you to compromise your vision to fit into a framework. Dood
 
 We reject the idea of "vibecoding" or AI guessing. This is a precision instrument that establishes a direct link between visual intent and binary execution. If you can design it, the engine can run it.
 
+<img width="1704" height="909" alt="Screenshot 2026-02-13 093508" src="https://github.com/user-attachments/assets/18d94511-26f7-4019-b983-eccdf0854e60" />
+
 ## Features
 * **Visual Compiler:** Turns vector designs directly into optimized, production ready HTML/CSS/JS.
 * **Zero Dependency Runtime:** Exports stand alone Web Components that require no React, Vue, or external libraries to run.
