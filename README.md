@@ -2,7 +2,7 @@
 
 A visual design tool for the web. Draw on the canvas, refine the details, and export your design as a standalone page or Web Component.
 
-**[Open the editor](https://doodledev.app/)**
+**[Explore DoodleDev](https://doodledev.app/about/)** · [Open Editor](https://doodledev.app/)
 
 Currently in public preview. Use a desktop browser; no account is needed.
 
@@ -17,6 +17,12 @@ Currently in public preview. Use a desktop browser; no account is needed.
 - **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
 ![MiPod Classic design in DoodleDev's HTML export preview](assets/doodledev-export.webp)
+
+## Learn more
+
+- [HTML export](https://doodledev.app/html-css-export/)
+- [Web Components](https://doodledev.app/web-component/)
+- [Getting started guide](https://doodledev.app/what-is-a-visual-design-tool/)
 
 ## Get started
 
