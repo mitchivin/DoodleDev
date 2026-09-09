@@ -1,56 +1,44 @@
 # DoodleDev
 
-A visual design tool for the web. Draw on the canvas and export production HTML, CSS, and JavaScript as a standalone page or Web Component, with no runtime dependencies.
+A visual design tool for the web. Draw on the canvas, refine the details, and export your design as a standalone page or Web Component.
 
-[doodledev.app](https://doodledev.app)
+**[Open the editor](https://doodledev.app/)**
 
-<p align="center">
-<img width="1920" height="1080" alt="doodledev-editor" src="https://github.com/user-attachments/assets/3bfeed1d-a714-4e20-a25a-bcf140ea4c8c" />
-</p>
+Currently in public preview. Use a desktop browser; no account is needed.
 
-## Features
+![Mi Boy Color design open in DoodleDev with its properties and layers](assets/doodledev-editor.webp)
 
-- Vector canvas with shapes, pen / bezier paths, text, images, groups, and a boolean shape builder
-- Styling covers fills, strokes, gradients, shadows, glow, lighting, blur, and noise
-- Infinite canvas, layers, grouping, and local `.doodle` File Open / Save
-- Welcome presets for Mi Boy Color and MiPod Classic
-- Export as a Web Component or a full HTML page, with an optional ZIP when the design includes image assets
-- Exported output stands alone. No React, Vue, or other runtime library required
+## From canvas to the web
 
-<p align="center">
-<img width="1920" height="1080" alt="doodledev-export" src="https://github.com/user-attachments/assets/63b877a5-b963-4a44-8344-3db2bfb63ea5" />
-</p>
+- **Draw your idea.** Combine shapes, paths, text and images on the canvas.
+- **Refine the finish.** Adjust colours, gradients, shadows and effects as you work.
+- **Keep your work organised.** Manage layers and groups, then save a local `.doodle` file to return to later.
+- **Start with an example.** Explore the Mi Boy Color and MiPod Classic presets, or begin with a blank canvas.
+- **Take your design with you.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
-## Export
+![MiPod Classic design in DoodleDev's HTML export preview](assets/doodledev-export.webp)
 
-Drop the export into any site and use the custom element (default tag / file name):
+## Get started
 
-```html
-<script type="module" src="./doodledev-export.js"></script>
+1. Open [doodledev.app](https://doodledev.app/) on your desktop.
+2. Choose a preset or a blank canvas and start designing.
+3. Select **Preview Code** to review your design, choose an export format, and download it.
 
-<doodledev-export></doodledev-export>
-```
+Exports contain the visual design. Interactive behaviour can be added separately when you use it in a site.
 
-The widget id (and therefore the tag and filename) can be customized at export time.
-
-## Stack
-
-- Vanilla HTML / CSS / JavaScript
-- Paper.js for boolean shape operations
-- Cloudflare Worker for heavier export processing. Final DOM assembly is in the browser.
+This repository contains public product information. The application source is not published here.
 
 ## Related
 
-Shells designed in DoodleDev:
+Explore the Mi Boy Color and MiPod Classic designs in use:
 
-- [Mi Boy Color](https://builds.doodledev.app/#/miboy) - Game Boy Color style handheld shell
-- [MiPod Classic](https://builds.doodledev.app/#/mipod) - iPod Classic style click-wheel shell
-- [MitchIvin XP](https://mitchivin.com/) - Windows XP portfolio desktop
+- [Mi Boy Color](https://builds.doodledev.app/#/miboy)
+- [MiPod Classic](https://builds.doodledev.app/#/mipod)
 
-## Credits
+Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio desktop.
+
+## About
 
 Built by [Mitch Ivin](https://mitchivin.com/).
 
-## License
-
-Source stays private.
+Screenshots captured at 1920×1080.
