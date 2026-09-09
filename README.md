@@ -8,13 +8,13 @@ Currently in public preview. Use a desktop browser; no account is needed.
 
 ![Mi Boy Color design open in DoodleDev with its properties and layers](assets/doodledev-editor.webp)
 
-## From canvas to the web
+## Features
 
-- **Draw your idea.** Combine shapes, paths, text and images on the canvas.
-- **Refine the finish.** Adjust colours, gradients, shadows and effects as you work.
-- **Keep your work organised.** Manage layers and groups, then save a local `.doodle` file to return to later.
-- **Start with an example.** Explore the Mi Boy Color and MiPod Classic presets, or begin with a blank canvas.
-- **Take your design with you.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
+- **Drawing tools.** Combine shapes, paths, text and images on the canvas.
+- **Styling.** Adjust colours, gradients, shadows and effects as you work.
+- **Layers and files.** Manage layers and groups, then save a local `.doodle` file to return to later.
+- **Presets.** Explore the Mi Boy Color and MiPod Classic presets, or begin with a blank canvas.
+- **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
 ![MiPod Classic design in DoodleDev's HTML export preview](assets/doodledev-export.webp)
 
