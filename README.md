@@ -32,8 +32,8 @@ This repository contains public product information. The application source is n
 
 Explore the Mi Boy Color and MiPod Classic designs in use:
 
-- [Mi Boy Color](https://builds.doodledev.app/#/miboy)
-- [MiPod Classic](https://builds.doodledev.app/#/mipod)
+- [Mi Boy Color](https://builds.doodledev.app/?go=1#/miboy)
+- [MiPod Classic](https://builds.doodledev.app/?go=1#/mipod)
 
 Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio desktop.
 
