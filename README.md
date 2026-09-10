@@ -4,7 +4,7 @@ A visual design tool for the web. Draw on the canvas, refine the details, and ex
 
 **[Explore DoodleDev](https://doodledev.app/about/)** | [Open Editor](https://doodledev.app/)
 
-[![DoodleDev overview: Design Visually. Export to the Web. with the MiPod design open in the editor](assets/doodledev-overview.webp)](https://doodledev.app/about/)
+[![DoodleDev overview: Design Visually. Export to the Web. with the MiPod design open in the editor](assets/doodledev-overview-1920x1080.png)](https://doodledev.app/about/)
 
 Currently in public preview. Use a desktop browser; no account is needed.
 
