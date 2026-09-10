@@ -16,7 +16,7 @@ Currently in public preview. Use a desktop browser; no account is needed.
 - **Presets.** Explore the Mi Boy Color and MiPod Classic presets, or begin with a blank canvas.
 - **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
-![Mi Boy Color design open in DoodleDev with its properties and layers](assets/doodledev-editor.webp)
+![MI Boy Color with its display selected and screen group expanded in Layers](assets/miboy-screen-editor-1920x1080.png)
 
 ## Learn more
 
@@ -32,7 +32,7 @@ Currently in public preview. Use a desktop browser; no account is needed.
 
 Exports contain the visual design. Interactive behaviour can be added separately when you use it in a site.
 
-![Mi Boy Color design in DoodleDev's HTML export preview](assets/doodledev-export.webp)
+![MiPod Classic design in DoodleDev's HTML export preview](assets/mipod-export-1920x1080.png)
 
 This repository contains public product information. The application source is not published here.
 
@@ -49,4 +49,4 @@ Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio d
 
 Built by [Mitch Ivin](https://mitchivin.com/).
 
-Overview captured at 1920×1080.
+Screenshots captured at 1920×1080.
