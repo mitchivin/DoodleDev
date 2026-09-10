@@ -6,23 +6,23 @@ A visual design tool for the web. Draw on the canvas, refine the details, and ex
 
 Currently in public preview. Use a desktop browser; no account is needed.
 
-[![DoodleDev overview: Design Visually. Export to the Web. with the MiPod design open in the editor](assets/doodledev-overview-1920x1080.png)](https://doodledev.app/about/)
+[![DoodleDev editor welcome screen with options to start a design, open a project or explore MI Boy and MiPod presets](assets/doodledev-welcome-1920x1080.png)](https://doodledev.app/)
 
 ## Features
 
 - **Drawing tools.** Combine shapes, paths, text and images on the canvas.
 - **Styling.** Adjust colours, gradients, shadows and effects as you work.
 - **Layers and files.** Manage layers and groups, then save a local `.doodle` file to return to later.
-- **Presets.** Explore the Mi Boy Color and MiPod Classic presets, or begin with a blank canvas.
+- **Presets.** Explore the MI Boy Color and MiPod Classic presets, or begin with a blank canvas.
 - **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
 ![MI Boy Color with its display selected and screen group expanded in Layers](assets/miboy-screen-editor-1920x1080.png)
 
 ## Learn more
 
-- [HTML export](https://doodledev.app/html-css-export/)
-- [Web Components](https://doodledev.app/web-component/)
-- [Getting started guide](https://doodledev.app/what-is-a-visual-design-tool/)
+- [Export types](https://doodledev.app/export/)
+- [Builds](https://doodledev.app/builds/)
+- [Getting started](https://doodledev.app/getting-started/)
 
 ## Get started
 
@@ -38,10 +38,10 @@ This repository contains public product information. The application source is n
 
 ## Related
 
-Explore the Mi Boy Color and MiPod Classic designs in use:
+Explore the MI Boy Color and MiPod Classic designs in use:
 
-- [Mi Boy Color](https://builds.doodledev.app/?go=1#/miboy)
-- [MiPod Classic](https://builds.doodledev.app/?go=1#/mipod)
+- [MI Boy Color](https://doodledev.app/builds/#miboy)
+- [MiPod Classic](https://doodledev.app/builds/#mipod)
 
 Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio desktop.
 
@@ -49,4 +49,4 @@ Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio d
 
 Built by [Mitch Ivin](https://mitchivin.com/).
 
-Screenshots captured at 1920×1080.
+Screenshots captured at 1920 × 1080.
