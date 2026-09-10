@@ -2,11 +2,11 @@
 
 A visual design tool for the web. Draw on the canvas, refine the details, and export your design as a standalone page or Web Component.
 
-**[Explore DoodleDev](https://doodledev.app/about/)** | [Open Editor](https://doodledev.app/)
-
-[![DoodleDev overview: Design Visually. Export to the Web. with the MiPod design open in the editor](assets/doodledev-overview-1920x1080.png)](https://doodledev.app/about/)
+**[Explore DoodleDev](https://doodledev.app/about/) · [Open Editor](https://doodledev.app/)**
 
 Currently in public preview. Use a desktop browser; no account is needed.
+
+[![DoodleDev overview: Design Visually. Export to the Web. with the MiPod design open in the editor](assets/doodledev-overview-1920x1080.png)](https://doodledev.app/about/)
 
 ## Features
 
@@ -49,4 +49,4 @@ Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio d
 
 Built by [Mitch Ivin](https://mitchivin.com/).
 
-Overview captured at 1920 x 1080.
+Overview captured at 1920×1080.
